@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- BootstrapVueの表示 -->
-    <!-- スラッシュを入れることで、タグの省略表記になります。<BootstrapVue></BootstrapVue>と同じです。 -->
+    <!-- スラッシュを入れることで、タグの省略表記になります。<BootstrapVue></BootstrapVue>と同じです。  -->
     <BootstrapVue/>
   </div>
 </template>
